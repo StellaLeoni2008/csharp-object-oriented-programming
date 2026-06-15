@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "1TLKoJCw700=",
+  "success": true,
+  "projectFilePath": "/Users/stell/Documents/ALURA/programação em C# com Orientação a Objetos/C#.3/ScreenSound/ScreenSound.csproj",
+  "expectedPackageFiles": [
+    "/Users/stell/.nuget/packages/microsoft.extensions.configuration.abstractions/10.0.3/microsoft.extensions.configuration.abstractions.10.0.3.nupkg.sha512",
+    "/Users/stell/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.3/microsoft.extensions.dependencyinjection.abstractions.10.0.3.nupkg.sha512",
+    "/Users/stell/.nuget/packages/microsoft.extensions.diagnostics.abstractions/10.0.3/microsoft.extensions.diagnostics.abstractions.10.0.3.nupkg.sha512",
+    "/Users/stell/.nuget/packages/microsoft.extensions.fileproviders.abstractions/10.0.3/microsoft.extensions.fileproviders.abstractions.10.0.3.nupkg.sha512",
+    "/Users/stell/.nuget/packages/microsoft.extensions.hosting.abstractions/10.0.3/microsoft.extensions.hosting.abstractions.10.0.3.nupkg.sha512",
+    "/Users/stell/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.3/microsoft.extensions.logging.abstractions.10.0.3.nupkg.sha512",
+    "/Users/stell/.nuget/packages/microsoft.extensions.options/10.0.3/microsoft.extensions.options.10.0.3.nupkg.sha512",
+    "/Users/stell/.nuget/packages/microsoft.extensions.primitives/10.0.3/microsoft.extensions.primitives.10.0.3.nupkg.sha512",
+    "/Users/stell/.nuget/packages/openai/2.11.0/openai.2.11.0.nupkg.sha512",
+    "/Users/stell/.nuget/packages/system.clientmodel/1.10.0/system.clientmodel.1.10.0.nupkg.sha512",
+    "/Users/stell/.nuget/packages/system.memory.data/10.0.3/system.memory.data.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

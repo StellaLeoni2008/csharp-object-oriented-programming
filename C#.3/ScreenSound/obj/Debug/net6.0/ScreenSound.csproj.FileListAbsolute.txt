@@ -1,0 +1,14 @@
+/Users/stell/Documents/ALURA/programação em C# com Orientação a Objetos/C#.3/ScreenSound/obj/Debug/net6.0/ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stell/Documents/ALURA/programação em C# com Orientação a Objetos/C#.3/ScreenSound/obj/Debug/net6.0/ScreenSound.AssemblyInfoInputs.cache
+/Users/stell/Documents/ALURA/programação em C# com Orientação a Objetos/C#.3/ScreenSound/obj/Debug/net6.0/ScreenSound.AssemblyInfo.cs
+/Users/stell/Documents/ALURA/programação em C# com Orientação a Objetos/C#.3/ScreenSound/obj/Debug/net6.0/ScreenSound.csproj.CoreCompileInputs.cache
+/Users/stell/Documents/ALURA/programação em C# com Orientação a Objetos/C#.3/ScreenSound/bin/Debug/net6.0/ScreenSound
+/Users/stell/Documents/ALURA/programação em C# com Orientação a Objetos/C#.3/ScreenSound/bin/Debug/net6.0/ScreenSound.deps.json
+/Users/stell/Documents/ALURA/programação em C# com Orientação a Objetos/C#.3/ScreenSound/bin/Debug/net6.0/ScreenSound.runtimeconfig.json
+/Users/stell/Documents/ALURA/programação em C# com Orientação a Objetos/C#.3/ScreenSound/bin/Debug/net6.0/ScreenSound.dll
+/Users/stell/Documents/ALURA/programação em C# com Orientação a Objetos/C#.3/ScreenSound/bin/Debug/net6.0/ScreenSound.pdb
+/Users/stell/Documents/ALURA/programação em C# com Orientação a Objetos/C#.3/ScreenSound/obj/Debug/net6.0/ScreenSound.dll
+/Users/stell/Documents/ALURA/programação em C# com Orientação a Objetos/C#.3/ScreenSound/obj/Debug/net6.0/refint/ScreenSound.dll
+/Users/stell/Documents/ALURA/programação em C# com Orientação a Objetos/C#.3/ScreenSound/obj/Debug/net6.0/ScreenSound.pdb
+/Users/stell/Documents/ALURA/programação em C# com Orientação a Objetos/C#.3/ScreenSound/obj/Debug/net6.0/ScreenSound.genruntimeconfig.cache
+/Users/stell/Documents/ALURA/programação em C# com Orientação a Objetos/C#.3/ScreenSound/obj/Debug/net6.0/ref/ScreenSound.dll
