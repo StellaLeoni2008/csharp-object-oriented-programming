@@ -1,0 +1,14 @@
+/Users/stell/Documents/ALURA/C#.2/bin/Debug/net10.0/C#.2
+/Users/stell/Documents/ALURA/C#.2/bin/Debug/net10.0/C#.2.deps.json
+/Users/stell/Documents/ALURA/C#.2/bin/Debug/net10.0/C#.2.runtimeconfig.json
+/Users/stell/Documents/ALURA/C#.2/bin/Debug/net10.0/C#.2.dll
+/Users/stell/Documents/ALURA/C#.2/bin/Debug/net10.0/C#.2.pdb
+/Users/stell/Documents/ALURA/C#.2/obj/Debug/net10.0/C#.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stell/Documents/ALURA/C#.2/obj/Debug/net10.0/C#.2.AssemblyInfoInputs.cache
+/Users/stell/Documents/ALURA/C#.2/obj/Debug/net10.0/C#.2.AssemblyInfo.cs
+/Users/stell/Documents/ALURA/C#.2/obj/Debug/net10.0/C#.2.csproj.CoreCompileInputs.cache
+/Users/stell/Documents/ALURA/C#.2/obj/Debug/net10.0/C#.2.dll
+/Users/stell/Documents/ALURA/C#.2/obj/Debug/net10.0/refint/C#.2.dll
+/Users/stell/Documents/ALURA/C#.2/obj/Debug/net10.0/C#.2.pdb
+/Users/stell/Documents/ALURA/C#.2/obj/Debug/net10.0/C#.2.genruntimeconfig.cache
+/Users/stell/Documents/ALURA/C#.2/obj/Debug/net10.0/ref/C#.2.dll
